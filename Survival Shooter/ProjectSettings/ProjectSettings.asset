@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 00000000000000000000000000000000
+  productGUID: 67457ea7b69e39a47a771d4e3849e1d4
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -708,7 +708,7 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   cloudProjectId: a0167ff4-a727-4567-97bd-b6d91c0c447e
   framebufferDepthMemorylessMode: 0
-  projectName: Space Shooter
+  projectName: Survival Shooter
   organizationId: michaelfreelandcollegeiu
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
